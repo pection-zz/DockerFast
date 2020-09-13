@@ -35,7 +35,6 @@ INSTALLED_APPS = [
     'material',
     'material.admin',
     'imagekit',
-    'gallery',
     'photologue',
     'sortedm2m', 
     'django.contrib.admin',

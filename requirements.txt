@@ -4,3 +4,4 @@ Pillow == 5.00
 django-imagekit == 4.0.2
 martor
 gunicorn
+django-photologue
